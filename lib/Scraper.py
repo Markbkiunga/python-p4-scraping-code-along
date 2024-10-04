@@ -38,4 +38,3 @@ class Scraper:
 
 scraper = Scraper()
 scraper.get_page()
-# more code coming soon!
